@@ -1,1 +1,1 @@
-# A/B Testing Module
+// A/B Testing framework implementation

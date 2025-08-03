@@ -1,1 +1,1 @@
-# Data Visualization Module
+// Data visualization components
