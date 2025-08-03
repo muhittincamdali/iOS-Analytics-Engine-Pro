@@ -4,8 +4,8 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS%2015%2B-blue.svg)](https://developer.apple.com/ios/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](CHANGELOG.md)
-[![Tests](https://img.shields.io/badge/Tests-100%25%20Coverage-success.svg)](Tests/)
-[![Documentation](https://img.shields.io/badge/Documentation-Complete-blue.svg)](Documentation/)
+[![Tests](https://img.shields.io/badge/Tests-100%25%20Coverage-success.svg)](Tests/UnitTests/)
+[![Documentation](https://img.shields.io/badge/Documentation-Complete-blue.svg)](Documentation/API/)
 
 <div align="center">
   <img src="Resources/Assets/analytics-engine-pro-banner.png" alt="Analytics Engine Pro" width="800"/>
