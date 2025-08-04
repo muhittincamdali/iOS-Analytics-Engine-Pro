@@ -339,6 +339,21 @@ swift package generate-documentation
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📊 Project Statistics
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Analytics-Engine-Pro?style=social)](https://github.com/muhittincamdali/iOS-Analytics-Engine-Pro/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Analytics-Engine-Pro?style=social)](https://github.com/muhittincamdali/iOS-Analytics-Engine-Pro/network)
+[![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Analytics-Engine-Pro)](https://github.com/muhittincamdali/iOS-Analytics-Engine-Pro/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Analytics-Engine-Pro)](https://github.com/muhittincamdali/iOS-Analytics-Engine-Pro/pulls)
+
+</div>
+
+## 🌟 Stargazers
+
+[![Stargazers repo roster for @muhittincamdali/iOS-Analytics-Engine-Pro](https://reporoster.com/stars/muhittincamdali/iOS-Analytics-Engine-Pro)](https://github.com/muhittincamdali/iOS-Analytics-Engine-Pro/stargazers)
+
 ## 🙏 Acknowledgments
 
 - Apple Swift Team for the amazing Swift language
