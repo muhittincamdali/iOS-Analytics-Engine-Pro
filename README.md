@@ -837,8 +837,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-![GitHub Stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=star&logoColor=gold&color=gold&label=Stars)
-![GitHub Forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=git&logoColor=white&color=blue&label=Forks)
+![GitHub Stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=github&logoColor=white&color=gold&label=Stars)
+![GitHub Forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=github&logoColor=white&color=blue&label=Forks)
 ![GitHub Issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=github&logoColor=white&color=red&label=Issues)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=github&logoColor=white&color=green&label=PRs)
 ![GitHub License](https://img.shields.io/github/license/muhittincamdali/iOS-Analytics-Engine-Pro?style=for-the-badge&logo=github&logoColor=white&color=purple&label=License)
@@ -846,6 +846,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 ### 📈 Growth Analytics
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhittincamdali&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=muhittincamdali&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=muhittincamdali&color=brightgreen&style=for-the-badge)
+
+</div>
+
+### 🌟 Community Stats
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
