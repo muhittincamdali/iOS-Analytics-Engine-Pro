@@ -1,5 +1,55 @@
 # Performance Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance Guide](#performance-guide)
+- [Analytics Engine Pro Performance Optimization](#analytics-engine-pro-performance-optimization)
+  - [Performance Targets](#performance-targets)
+    - [Target Metrics](#target-metrics)
+  - [Performance Monitoring](#performance-monitoring)
+    - [Get Performance Metrics](#get-performance-metrics)
+    - [Real-time Monitoring](#real-time-monitoring)
+  - [Optimization Strategies](#optimization-strategies)
+    - [1. Event Batching](#1-event-batching)
+    - [2. Memory Management](#2-memory-management)
+    - [3. Network Optimization](#3-network-optimization)
+  - [Performance Testing](#performance-testing)
+    - [Load Testing](#load-testing)
+    - [Stress Testing](#stress-testing)
+  - [Battery Optimization](#battery-optimization)
+    - [Battery Monitoring](#battery-monitoring)
+    - [Battery-Saving Configuration](#battery-saving-configuration)
+  - [Memory Optimization](#memory-optimization)
+    - [Memory Monitoring](#memory-monitoring)
+    - [Memory-Efficient Configuration](#memory-efficient-configuration)
+  - [Network Optimization](#network-optimization)
+    - [Network Efficiency Monitoring](#network-efficiency-monitoring)
+    - [Network-Optimized Configuration](#network-optimized-configuration)
+  - [Performance Best Practices](#performance-best-practices)
+    - [1. Event Optimization](#1-event-optimization)
+    - [2. Batch Optimization](#2-batch-optimization)
+    - [3. Error Handling](#3-error-handling)
+  - [Performance Troubleshooting](#performance-troubleshooting)
+    - [High Latency Issues](#high-latency-issues)
+    - [High Memory Usage](#high-memory-usage)
+    - [High Battery Impact](#high-battery-impact)
+  - [Performance Metrics Dashboard](#performance-metrics-dashboard)
+    - [Custom Performance Dashboard](#custom-performance-dashboard)
+  - [Performance Testing Checklist](#performance-testing-checklist)
+    - [Unit Testing Performance](#unit-testing-performance)
+    - [Integration Testing Performance](#integration-testing-performance)
+    - [Load Testing Performance](#load-testing-performance)
+  - [Performance Monitoring Tools](#performance-monitoring-tools)
+    - [Built-in Monitoring](#built-in-monitoring)
+    - [Custom Monitoring](#custom-monitoring)
+  - [Performance Optimization Checklist](#performance-optimization-checklist)
+    - [Configuration Optimization](#configuration-optimization)
+    - [Code Optimization](#code-optimization)
+    - [Monitoring Optimization](#monitoring-optimization)
+  - [Support](#support)
+<!-- TOC END -->
+
+
 ## Analytics Engine Pro Performance Optimization
 
 ### Performance Targets

@@ -1,5 +1,43 @@
 # Performance API
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance API](#performance-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [PerformanceManager](#performancemanager)
+  - [PerformanceMetrics](#performancemetrics)
+  - [PerformanceInsights](#performanceinsights)
+- [App Performance Monitoring](#app-performance-monitoring)
+  - [Launch Time Tracking](#launch-time-tracking)
+  - [Screen Load Performance](#screen-load-performance)
+  - [API Performance Monitoring](#api-performance-monitoring)
+- [Crash Monitoring](#crash-monitoring)
+  - [Crash Tracking](#crash-tracking)
+  - [Error Tracking](#error-tracking)
+- [Memory Management](#memory-management)
+  - [Memory Usage Monitoring](#memory-usage-monitoring)
+  - [Memory Optimization](#memory-optimization)
+- [Battery Impact Monitoring](#battery-impact-monitoring)
+  - [Battery Usage Tracking](#battery-usage-tracking)
+  - [Battery Optimization](#battery-optimization)
+- [Network Performance](#network-performance)
+  - [Network Monitoring](#network-monitoring)
+  - [Network Optimization](#network-optimization)
+- [UI Performance](#ui-performance)
+  - [UI Responsiveness Monitoring](#ui-responsiveness-monitoring)
+  - [UI Optimization](#ui-optimization)
+- [Performance Insights](#performance-insights)
+  - [Performance Score](#performance-score)
+  - [Performance Bottlenecks](#performance-bottlenecks)
+  - [Optimization Recommendations](#optimization-recommendations)
+- [Performance Trends](#performance-trends)
+  - [Trend Analysis](#trend-analysis)
+  - [Performance Alerts](#performance-alerts)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Performance API provides comprehensive performance monitoring and optimization capabilities for iOS applications. This document covers all performance-related interfaces and methods available in the Analytics Engine Pro framework.

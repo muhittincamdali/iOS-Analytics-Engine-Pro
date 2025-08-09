@@ -3,6 +3,16 @@
 
 # MetricsAPI
 
+<!-- TOC START -->
+## Table of Contents
+- [MetricsAPI](#metricsapi)
+- [Overview](#overview)
+- [API](#api)
+- [Usage](#usage)
+- [Notes](#notes)
+<!-- TOC END -->
+
+
 ## Overview
 Explain the purpose and context.
 

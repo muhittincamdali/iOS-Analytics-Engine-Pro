@@ -1,5 +1,24 @@
 # Analytics Engine API
 
+<!-- TOC START -->
+## Table of Contents
+- [Analytics Engine API](#analytics-engine-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [AnalyticsEngine](#analyticsengine)
+  - [AnalyticsConfiguration](#analyticsconfiguration)
+- [Event Tracking](#event-tracking)
+  - [Basic Event Tracking](#basic-event-tracking)
+  - [User Properties](#user-properties)
+- [Data Management](#data-management)
+  - [Flushing Data](#flushing-data)
+- [Error Handling](#error-handling)
+- [Performance Considerations](#performance-considerations)
+- [Privacy & Compliance](#privacy-compliance)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Analytics Engine API provides comprehensive analytics functionality for iOS applications. This document covers all public interfaces and methods available in the Analytics Engine Pro framework.

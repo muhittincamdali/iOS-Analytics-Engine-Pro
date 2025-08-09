@@ -1,5 +1,45 @@
 # Configuration API
 
+<!-- TOC START -->
+## Table of Contents
+- [Configuration API](#configuration-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [ConfigurationManager](#configurationmanager)
+  - [AnalyticsConfiguration](#analyticsconfiguration)
+- [Basic Configuration](#basic-configuration)
+  - [Loading Configuration](#loading-configuration)
+  - [Saving Configuration](#saving-configuration)
+  - [Updating Configuration](#updating-configuration)
+- [Environment Configuration](#environment-configuration)
+  - [Environment Types](#environment-types)
+  - [Environment-Specific Settings](#environment-specific-settings)
+- [Privacy Configuration](#privacy-configuration)
+  - [GDPR Configuration](#gdpr-configuration)
+  - [CCPA Configuration](#ccpa-configuration)
+- [Performance Configuration](#performance-configuration)
+  - [Batch Processing Configuration](#batch-processing-configuration)
+  - [Network Configuration](#network-configuration)
+- [Feature Configuration](#feature-configuration)
+  - [A/B Testing Configuration](#ab-testing-configuration)
+  - [Machine Learning Configuration](#machine-learning-configuration)
+  - [Real-time Analytics Configuration](#real-time-analytics-configuration)
+- [Custom Configuration](#custom-configuration)
+  - [Custom Properties](#custom-properties)
+  - [Custom Settings](#custom-settings)
+- [Configuration Validation](#configuration-validation)
+  - [Validation Rules](#validation-rules)
+  - [Configuration Constraints](#configuration-constraints)
+- [Configuration Export/Import](#configuration-exportimport)
+  - [Export Configuration](#export-configuration)
+  - [Import Configuration](#import-configuration)
+- [Configuration Management](#configuration-management)
+  - [Configuration Versioning](#configuration-versioning)
+  - [Configuration Backup](#configuration-backup)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Configuration API provides comprehensive configuration management capabilities for iOS applications. This document covers all configuration-related interfaces and methods available in the Analytics Engine Pro framework.

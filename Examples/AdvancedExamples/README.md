@@ -1,5 +1,24 @@
 # Advanced Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Advanced Examples](#advanced-examples)
+- [Examples](#examples)
+  - [1. Custom Event Tracking](#1-custom-event-tracking)
+  - [2. Performance Monitoring](#2-performance-monitoring)
+  - [3. Business Analytics](#3-business-analytics)
+  - [4. User Segmentation](#4-user-segmentation)
+  - [5. Real-time Analytics](#5-real-time-analytics)
+- [Advanced Features](#advanced-features)
+  - [Custom Event Processors](#custom-event-processors)
+  - [Custom Metrics](#custom-metrics)
+- [Enterprise Features](#enterprise-features)
+  - [Multi-tenant Support](#multi-tenant-support)
+  - [Data Export](#data-export)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 This directory contains advanced examples demonstrating complex analytics scenarios and enterprise features.
 
 ## Examples

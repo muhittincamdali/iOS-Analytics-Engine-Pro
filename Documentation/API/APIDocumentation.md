@@ -1,5 +1,35 @@
 # API Documentation
 
+<!-- TOC START -->
+## Table of Contents
+- [API Documentation](#api-documentation)
+- [Analytics Engine Pro API Reference](#analytics-engine-pro-api-reference)
+  - [Core Classes](#core-classes)
+    - [AnalyticsCore](#analyticscore)
+    - [AnalyticsConfiguration](#analyticsconfiguration)
+    - [AnalyticsEvent](#analyticsevent)
+  - [Error Types](#error-types)
+    - [AnalyticsError](#analyticserror)
+  - [Performance Metrics](#performance-metrics)
+    - [PerformanceMetrics](#performancemetrics)
+  - [Usage Examples](#usage-examples)
+    - [Basic Event Tracking](#basic-event-tracking)
+    - [User Identification](#user-identification)
+    - [Session Management](#session-management)
+    - [Performance Monitoring](#performance-monitoring)
+    - [Error Handling](#error-handling)
+  - [Configuration Examples](#configuration-examples)
+    - [Development Configuration](#development-configuration)
+    - [Production Configuration](#production-configuration)
+    - [Performance Configuration](#performance-configuration)
+    - [Test Configuration](#test-configuration)
+  - [Best Practices](#best-practices)
+  - [Migration Guide](#migration-guide)
+    - [From v0.9.0 to v1.0.0](#from-v090-to-v100)
+  - [Support](#support)
+<!-- TOC END -->
+
+
 ## Analytics Engine Pro API Reference
 
 ### Core Classes

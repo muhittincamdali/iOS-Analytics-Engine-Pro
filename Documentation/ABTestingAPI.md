@@ -1,5 +1,37 @@
 # A/B Testing API
 
+<!-- TOC START -->
+## Table of Contents
+- [A/B Testing API](#ab-testing-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [ABTestManager](#abtestmanager)
+  - [ABTestExperiment](#abtestexperiment)
+  - [ExperimentVariation](#experimentvariation)
+- [Experiment Setup](#experiment-setup)
+  - [Creating Experiments](#creating-experiments)
+  - [Starting Experiments](#starting-experiments)
+- [User Assignment](#user-assignment)
+  - [Assigning Users to Variations](#assigning-users-to-variations)
+  - [Traffic Allocation](#traffic-allocation)
+- [Conversion Tracking](#conversion-tracking)
+  - [Tracking Conversions](#tracking-conversions)
+  - [Conversion Types](#conversion-types)
+- [Results Analysis](#results-analysis)
+  - [Getting Experiment Results](#getting-experiment-results)
+  - [Statistical Analysis](#statistical-analysis)
+  - [Real-time Monitoring](#real-time-monitoring)
+- [Advanced Features](#advanced-features)
+  - [Multi-variant Testing](#multi-variant-testing)
+  - [Targeting Rules](#targeting-rules)
+  - [Guardrail Metrics](#guardrail-metrics)
+- [Experiment Lifecycle](#experiment-lifecycle)
+  - [Managing Experiments](#managing-experiments)
+  - [Experiment Reporting](#experiment-reporting)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The A/B Testing API provides comprehensive A/B testing and experimentation capabilities for iOS applications. This document covers all A/B testing interfaces and methods available in the Analytics Engine Pro framework.

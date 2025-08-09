@@ -1,5 +1,45 @@
 # Privacy API
 
+<!-- TOC START -->
+## Table of Contents
+- [Privacy API](#privacy-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [PrivacyManager](#privacymanager)
+  - [PrivacyConfiguration](#privacyconfiguration)
+  - [ConsentManager](#consentmanager)
+- [GDPR Compliance](#gdpr-compliance)
+  - [Basic GDPR Setup](#basic-gdpr-setup)
+  - [User Consent Management](#user-consent-management)
+  - [Consent Types](#consent-types)
+- [Data Anonymization](#data-anonymization)
+  - [Anonymizing User Data](#anonymizing-user-data)
+  - [Anonymization Methods](#anonymization-methods)
+- [Data Retention](#data-retention)
+  - [Retention Policies](#retention-policies)
+  - [Retention Monitoring](#retention-monitoring)
+- [Data Export](#data-export)
+  - [Exporting User Data](#exporting-user-data)
+  - [Export Formats](#export-formats)
+- [Data Deletion](#data-deletion)
+  - [Deleting User Data](#deleting-user-data)
+  - [Deletion Verification](#deletion-verification)
+- [Privacy Controls](#privacy-controls)
+  - [Privacy Controls Configuration](#privacy-controls-configuration)
+  - [Privacy Levels](#privacy-levels)
+- [Audit Trail](#audit-trail)
+  - [Privacy Audit Logging](#privacy-audit-logging)
+  - [Audit Reports](#audit-reports)
+- [Privacy Dashboard](#privacy-dashboard)
+  - [Privacy Summary](#privacy-summary)
+  - [Privacy Settings](#privacy-settings)
+- [Compliance Reporting](#compliance-reporting)
+  - [GDPR Compliance Report](#gdpr-compliance-report)
+  - [CCPA Compliance Report](#ccpa-compliance-report)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Privacy API provides comprehensive privacy compliance and data protection capabilities for iOS applications. This document covers all privacy-related interfaces and methods available in the Analytics Engine Pro framework.

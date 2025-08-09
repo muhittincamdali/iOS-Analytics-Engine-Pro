@@ -1,5 +1,32 @@
 # Event Tracking API
 
+<!-- TOC START -->
+## Table of Contents
+- [Event Tracking API](#event-tracking-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [EventTracker](#eventtracker)
+  - [AutomaticEventTracking](#automaticeventtracking)
+- [Event Types](#event-types)
+  - [Screen Events](#screen-events)
+  - [User Action Events](#user-action-events)
+  - [Error Events](#error-events)
+  - [Performance Events](#performance-events)
+- [Event Properties](#event-properties)
+  - [Standard Properties](#standard-properties)
+  - [Custom Properties](#custom-properties)
+- [Event Validation](#event-validation)
+  - [EventValidator](#eventvalidator)
+- [Event Processing](#event-processing)
+  - [EventProcessor](#eventprocessor)
+- [Event Batching](#event-batching)
+  - [EventBatcher](#eventbatcher)
+- [Best Practices](#best-practices)
+- [Error Handling](#error-handling)
+- [Performance Considerations](#performance-considerations)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Event Tracking API provides comprehensive event tracking capabilities for iOS applications. This document covers all event tracking interfaces and methods available in the Analytics Engine Pro framework.

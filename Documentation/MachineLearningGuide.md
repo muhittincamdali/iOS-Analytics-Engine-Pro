@@ -1,5 +1,42 @@
 # Machine Learning Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Machine Learning Guide](#machine-learning-guide)
+- [Overview](#overview)
+- [Machine Learning Features](#machine-learning-features)
+  - [Predictive Analytics](#predictive-analytics)
+  - [User Segmentation](#user-segmentation)
+  - [Recommendation Engine](#recommendation-engine)
+- [ML Model Types](#ml-model-types)
+  - [Classification Models](#classification-models)
+  - [Regression Models](#regression-models)
+  - [Clustering Models](#clustering-models)
+- [ML Configuration](#ml-configuration)
+  - [Complete ML Setup](#complete-ml-setup)
+  - [Model Training Configuration](#model-training-configuration)
+- [Feature Engineering](#feature-engineering)
+  - [Feature Extraction](#feature-extraction)
+  - [Feature Selection](#feature-selection)
+- [Model Evaluation](#model-evaluation)
+  - [Performance Metrics](#performance-metrics)
+  - [Model Validation](#model-validation)
+- [Anomaly Detection](#anomaly-detection)
+  - [User Behavior Anomalies](#user-behavior-anomalies)
+  - [System Performance Anomalies](#system-performance-anomalies)
+- [Real-Time ML](#real-time-ml)
+  - [Online Learning](#online-learning)
+  - [Real-Time Predictions](#real-time-predictions)
+- [ML Model Management](#ml-model-management)
+  - [Model Versioning](#model-versioning)
+  - [Model Deployment](#model-deployment)
+- [ML Resources](#ml-resources)
+  - [Documentation Links](#documentation-links)
+  - [ML Tools](#ml-tools)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This comprehensive machine learning guide covers all aspects of ML-powered analytics in iOS Analytics Engine Pro. Learn how to implement predictive analytics, user segmentation, recommendation engines, and advanced ML features for intelligent analytics.

@@ -1,5 +1,37 @@
 # Performance Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance Guide](#performance-guide)
+- [Overview](#overview)
+- [Performance Features](#performance-features)
+  - [Real-Time Performance Monitoring](#real-time-performance-monitoring)
+  - [Performance Metrics](#performance-metrics)
+  - [Performance Optimization](#performance-optimization)
+- [Performance Best Practices](#performance-best-practices)
+  - [1. Efficient Event Tracking](#1-efficient-event-tracking)
+  - [2. Memory Management](#2-memory-management)
+  - [3. Network Optimization](#3-network-optimization)
+- [Performance Configuration](#performance-configuration)
+  - [Complete Performance Setup](#complete-performance-setup)
+  - [Performance Alerts](#performance-alerts)
+- [Performance Testing](#performance-testing)
+  - [Performance Benchmarking](#performance-benchmarking)
+  - [Performance Regression Testing](#performance-regression-testing)
+- [Performance Monitoring Dashboard](#performance-monitoring-dashboard)
+  - [Real-Time Dashboard](#real-time-dashboard)
+  - [Performance Reports](#performance-reports)
+- [Performance Optimization Techniques](#performance-optimization-techniques)
+  - [1. Lazy Loading](#1-lazy-loading)
+  - [2. Background Processing](#2-background-processing)
+  - [3. Caching Strategy](#3-caching-strategy)
+- [Performance Resources](#performance-resources)
+  - [Documentation Links](#documentation-links)
+  - [Performance Tools](#performance-tools)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This comprehensive performance guide covers all aspects of performance optimization in iOS Analytics Engine Pro. Learn how to achieve optimal performance, monitor app metrics, and implement best practices for high-performance analytics.

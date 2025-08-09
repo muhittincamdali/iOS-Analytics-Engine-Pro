@@ -1,5 +1,33 @@
 # Privacy Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Privacy Guide](#privacy-guide)
+- [Overview](#overview)
+- [Privacy Features](#privacy-features)
+  - [GDPR Compliance](#gdpr-compliance)
+  - [Data Anonymization](#data-anonymization)
+  - [Consent Management](#consent-management)
+  - [Data Retention](#data-retention)
+- [Privacy Best Practices](#privacy-best-practices)
+  - [1. Minimize Data Collection](#1-minimize-data-collection)
+  - [2. Transparent Data Usage](#2-transparent-data-usage)
+  - [3. User Rights Implementation](#3-user-rights-implementation)
+- [Privacy Configuration](#privacy-configuration)
+  - [Complete Privacy Setup](#complete-privacy-setup)
+  - [Privacy Monitoring](#privacy-monitoring)
+- [Compliance Checklists](#compliance-checklists)
+  - [GDPR Compliance Checklist](#gdpr-compliance-checklist)
+  - [CCPA Compliance Checklist](#ccpa-compliance-checklist)
+- [Privacy Testing](#privacy-testing)
+  - [Privacy Compliance Testing](#privacy-compliance-testing)
+- [Privacy Resources](#privacy-resources)
+  - [Documentation Links](#documentation-links)
+  - [Privacy Tools](#privacy-tools)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This comprehensive privacy guide covers all aspects of privacy and data protection in iOS Analytics Engine Pro. Learn how to implement enterprise-grade privacy features and ensure compliance with global privacy regulations.

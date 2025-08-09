@@ -1,5 +1,37 @@
 # Machine Learning API
 
+<!-- TOC START -->
+## Table of Contents
+- [Machine Learning API](#machine-learning-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [MLModelManager](#mlmodelmanager)
+  - [UserSegmentationModel](#usersegmentationmodel)
+  - [PredictiveAnalyticsModel](#predictiveanalyticsmodel)
+- [User Segmentation](#user-segmentation)
+  - [Training Segmentation Model](#training-segmentation-model)
+  - [Segmenting Users](#segmenting-users)
+  - [Segment Characteristics](#segment-characteristics)
+- [Predictive Analytics](#predictive-analytics)
+  - [Churn Prediction](#churn-prediction)
+  - [Lifetime Value Prediction](#lifetime-value-prediction)
+- [Recommendation Engine](#recommendation-engine)
+  - [Training Recommendation Model](#training-recommendation-model)
+  - [Generating Recommendations](#generating-recommendations)
+- [Anomaly Detection](#anomaly-detection)
+  - [Anomaly Detection Model](#anomaly-detection-model)
+- [Personalization Engine](#personalization-engine)
+  - [Personalization Rules](#personalization-rules)
+- [Model Management](#model-management)
+  - [Model Versioning](#model-versioning)
+  - [Model Evaluation](#model-evaluation)
+  - [Model Updates](#model-updates)
+- [Real-time ML Pipeline](#real-time-ml-pipeline)
+  - [Real-time Processing](#real-time-processing)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Machine Learning API provides comprehensive machine learning capabilities for iOS applications. This document covers all ML-related interfaces and methods available in the Analytics Engine Pro framework.

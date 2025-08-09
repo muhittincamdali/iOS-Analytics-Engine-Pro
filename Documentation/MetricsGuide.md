@@ -1,5 +1,38 @@
 # Metrics Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Metrics Guide](#metrics-guide)
+- [Overview](#overview)
+- [Metrics Types](#metrics-types)
+  - [User Metrics](#user-metrics)
+  - [Business Metrics](#business-metrics)
+  - [Performance Metrics](#performance-metrics)
+- [Custom Metrics](#custom-metrics)
+  - [Creating Custom Metrics](#creating-custom-metrics)
+  - [Metric Aggregation](#metric-aggregation)
+- [Real-Time Metrics](#real-time-metrics)
+  - [Live Dashboard Metrics](#live-dashboard-metrics)
+  - [Real-Time Alerts](#real-time-alerts)
+- [Metric Analysis](#metric-analysis)
+  - [Trend Analysis](#trend-analysis)
+  - [Cohort Analysis](#cohort-analysis)
+- [Metric Reporting](#metric-reporting)
+  - [Automated Reports](#automated-reports)
+  - [Custom Report Builder](#custom-report-builder)
+- [Metric Visualization](#metric-visualization)
+  - [Charts and Graphs](#charts-and-graphs)
+  - [Interactive Dashboards](#interactive-dashboards)
+- [Metric Configuration](#metric-configuration)
+  - [Complete Metrics Setup](#complete-metrics-setup)
+  - [Metric Thresholds](#metric-thresholds)
+- [Metrics Resources](#metrics-resources)
+  - [Documentation Links](#documentation-links)
+  - [Metrics Tools](#metrics-tools)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This comprehensive metrics guide covers all aspects of analytics metrics and KPIs in iOS Analytics Engine Pro. Learn how to track, calculate, and analyze various types of metrics for comprehensive business intelligence.

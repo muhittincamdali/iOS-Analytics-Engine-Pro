@@ -1,5 +1,42 @@
 # Event Tracking Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Event Tracking Guide](#event-tracking-guide)
+- [Overview](#overview)
+- [Event Tracking Basics](#event-tracking-basics)
+  - [Simple Event Tracking](#simple-event-tracking)
+  - [Event Properties](#event-properties)
+- [Automatic Event Tracking](#automatic-event-tracking)
+  - [Screen Tracking](#screen-tracking)
+  - [App Lifecycle Tracking](#app-lifecycle-tracking)
+  - [Gesture Tracking](#gesture-tracking)
+- [Custom Event Tracking](#custom-event-tracking)
+  - [Business Events](#business-events)
+  - [User Journey Events](#user-journey-events)
+- [Event Validation](#event-validation)
+  - [Data Validation](#data-validation)
+  - [Event Schema Validation](#event-schema-validation)
+- [Event Processing](#event-processing)
+  - [Event Batching](#event-batching)
+  - [Event Prioritization](#event-prioritization)
+- [Event Analytics](#event-analytics)
+  - [Event Analysis](#event-analysis)
+  - [Funnel Analysis](#funnel-analysis)
+- [Event Tracking Best Practices](#event-tracking-best-practices)
+  - [1. Consistent Naming](#1-consistent-naming)
+  - [2. Meaningful Properties](#2-meaningful-properties)
+  - [3. Privacy Compliance](#3-privacy-compliance)
+- [Event Tracking Configuration](#event-tracking-configuration)
+  - [Complete Event Tracking Setup](#complete-event-tracking-setup)
+  - [Event Tracking Monitoring](#event-tracking-monitoring)
+- [Event Tracking Resources](#event-tracking-resources)
+  - [Documentation Links](#documentation-links)
+  - [Event Tracking Tools](#event-tracking-tools)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This comprehensive event tracking guide covers all aspects of event tracking in iOS Analytics Engine Pro. Learn how to implement effective event tracking, validate data, and optimize tracking for better analytics insights.

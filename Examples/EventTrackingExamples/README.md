@@ -1,5 +1,21 @@
 # Event Tracking Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Event Tracking Examples](#event-tracking-examples)
+- [Examples](#examples)
+  - [1. Automatic Event Tracking](#1-automatic-event-tracking)
+  - [2. Custom Event Tracking](#2-custom-event-tracking)
+  - [3. Event Validation](#3-event-validation)
+  - [4. Event Batching](#4-event-batching)
+  - [5. Event Enrichment](#5-event-enrichment)
+  - [6. Event Filtering](#6-event-filtering)
+  - [7. Real-time Event Tracking](#7-real-time-event-tracking)
+  - [8. Event Analytics](#8-event-analytics)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 This directory contains comprehensive examples demonstrating event tracking capabilities.
 
 ## Examples

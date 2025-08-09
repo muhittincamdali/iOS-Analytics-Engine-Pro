@@ -1,5 +1,39 @@
 # Metrics API
 
+<!-- TOC START -->
+## Table of Contents
+- [Metrics API](#metrics-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [MetricsCalculator](#metricscalculator)
+  - [UserMetrics](#usermetrics)
+  - [BusinessMetrics](#businessmetrics)
+- [User Metrics](#user-metrics)
+  - [Daily Active Users (DAU)](#daily-active-users-dau)
+  - [Monthly Active Users (MAU)](#monthly-active-users-mau)
+  - [User Retention](#user-retention)
+  - [User Engagement](#user-engagement)
+- [Business Metrics](#business-metrics)
+  - [Monthly Recurring Revenue (MRR)](#monthly-recurring-revenue-mrr)
+  - [Customer Acquisition Cost (CAC)](#customer-acquisition-cost-cac)
+  - [Customer Lifetime Value (LTV)](#customer-lifetime-value-ltv)
+  - [Conversion Rates](#conversion-rates)
+- [Performance Metrics](#performance-metrics)
+  - [App Performance](#app-performance)
+  - [Network Performance](#network-performance)
+- [Custom Metrics](#custom-metrics)
+  - [Custom KPI Definition](#custom-kpi-definition)
+  - [Complex Metric Calculations](#complex-metric-calculations)
+- [Real-time Metrics](#real-time-metrics)
+  - [Real-time Dashboard](#real-time-dashboard)
+  - [Real-time Alerts](#real-time-alerts)
+- [Historical Metrics](#historical-metrics)
+  - [Trend Analysis](#trend-analysis)
+  - [Cohort Analysis](#cohort-analysis)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Metrics API provides comprehensive metrics and KPIs calculation capabilities for iOS applications. This document covers all metrics-related interfaces and methods available in the Analytics Engine Pro framework.

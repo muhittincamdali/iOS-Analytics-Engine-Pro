@@ -1,5 +1,26 @@
 # Machine Learning Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Machine Learning Examples](#machine-learning-examples)
+- [Examples](#examples)
+  - [1. User Segmentation](#1-user-segmentation)
+  - [2. Predictive Analytics](#2-predictive-analytics)
+  - [3. Recommendation Engine](#3-recommendation-engine)
+  - [4. Anomaly Detection](#4-anomaly-detection)
+  - [5. Lifetime Value Prediction](#5-lifetime-value-prediction)
+  - [6. Personalization Engine](#6-personalization-engine)
+  - [7. Behavioral Analysis](#7-behavioral-analysis)
+  - [8. Sentiment Analysis](#8-sentiment-analysis)
+  - [9. Predictive Maintenance](#9-predictive-maintenance)
+  - [10. Real-time ML Pipeline](#10-real-time-ml-pipeline)
+- [Advanced ML Features](#advanced-ml-features)
+  - [Model Versioning](#model-versioning)
+  - [A/B Testing for ML Models](#ab-testing-for-ml-models)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 This directory contains comprehensive examples demonstrating machine learning capabilities.
 
 ## Examples

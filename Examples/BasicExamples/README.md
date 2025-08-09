@@ -1,5 +1,18 @@
 # Basic Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Basic Examples](#basic-examples)
+- [Examples](#examples)
+  - [1. Simple Event Tracking](#1-simple-event-tracking)
+  - [2. User Properties](#2-user-properties)
+  - [3. Event with Properties](#3-event-with-properties)
+  - [4. Screen Tracking](#4-screen-tracking)
+- [Getting Started](#getting-started)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 This directory contains basic examples demonstrating fundamental analytics functionality.
 
 ## Examples

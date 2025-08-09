@@ -1,5 +1,23 @@
 # Privacy Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Privacy Examples](#privacy-examples)
+- [Examples](#examples)
+  - [1. GDPR Compliance](#1-gdpr-compliance)
+  - [2. User Consent Management](#2-user-consent-management)
+  - [3. Data Anonymization](#3-data-anonymization)
+  - [4. Data Retention](#4-data-retention)
+  - [5. Data Export](#5-data-export)
+  - [6. Data Deletion](#6-data-deletion)
+  - [7. Privacy Controls](#7-privacy-controls)
+  - [8. Audit Trail](#8-audit-trail)
+  - [9. Privacy Dashboard](#9-privacy-dashboard)
+  - [10. Compliance Reporting](#10-compliance-reporting)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 This directory contains comprehensive examples demonstrating privacy compliance features.
 
 ## Examples
